@@ -10,7 +10,7 @@ To deploy this project to Gitpod, follow these steps:
 
 1. Click this link to deploy
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/dabit3/polygon-ethereum-nextjs-marketplace)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/riki-tanaka/polygon-ethereum-nextjs-marketplace)
 
 2. In __pages/index.js__, pass in the RPC address given to you by GitPod to the call to `JsonRpcProvider` function:
 
